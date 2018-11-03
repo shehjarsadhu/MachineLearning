@@ -1,0 +1,8 @@
+{
+    "hyperparameters": 
+        {
+            "n_neighbors": 9,
+            "distance": "euclidean",
+            "weighted": false
+        }
+}
